@@ -1,4 +1,4 @@
-[submodule "qmk_firmware"]
-	path = qmk_firmware
-	url = https://github.com/xmorph42/qmk_firmware
+[submodule "qmk"]
+	path = qmk
+	url = https://github.com/xmorph42/qmk_firmware.git
 	branch = dev_branch
